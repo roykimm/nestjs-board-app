@@ -5,7 +5,7 @@ export const typeORMConfig: TypeOrmModuleOptions = {
     host: 'gobella.kr',
     port: 5432,
     username: 'postgres',
-    password: '',
+    password: '123456',
     database: 'board-app',
     entities: [__dirname + '/../**/*.entity.{js,ts}'],
     synchronize: true
