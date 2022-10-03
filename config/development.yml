@@ -1,0 +1,8 @@
+db:
+  host: 'gobella.kr'
+  username: 'postgres'
+  password: '123456'
+  synchronize: true
+
+jwt:
+  secret: 'secret1234'
